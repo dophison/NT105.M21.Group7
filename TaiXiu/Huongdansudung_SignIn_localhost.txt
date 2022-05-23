@@ -1,0 +1,6 @@
+- https://downloads.mysql.com/archives/c-net/
+- XAMPP
+- http://localhost/phpmyadmin/
+
+https://www.youtube.com/watch?v=HhkHvEE-5W0 
+29:01
